@@ -24,13 +24,14 @@ See JAX repo & docs for a full list
 
 ## Tools & Libraries
 
-- Tangent Kernels
+- Neural Tangents
 - Tensor Network
 - Molecular Dynamics
 - Baidu Quantum
 
 ## Research
 
+- Rethining attention with Performers: https://arxiv.org/abs/2009.14794
 - Grathwohl
 - Arora
 - Lagrangean Networks
