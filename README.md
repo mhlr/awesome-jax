@@ -52,3 +52,9 @@ See JAX repo & docs for a full list
 
 - wheelodex: https://www.wheelodex.org/projects/jax/rdepends/
 - github: https://github.com/google/jax/network/dependents?package_id=UGFja2FnZS0zMjg2NDI1MjA%3D
+
+## Things that should be done with JAX ;)
+
+- Analog Cicuit Simulator
+- APL/J/K/FP compiler
+
