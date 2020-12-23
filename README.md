@@ -31,7 +31,7 @@ See JAX repo & docs for a full list
   - code: https://github.com/google/TensorNetwork
 - JAX Molecular Dynamics
   - code: https://github.com/google/jax-md
--  Alibaba Cloud Quantum Development Platform (ACQDP)
+- Alibaba Cloud Quantum Development Platform (ACQDP)
   - code: https://github.com/alibaba/acqdp
 
 ## Research done with JAX
