@@ -44,6 +44,8 @@ See JAX repo & docs for a full list
   - paper: https://arxiv.org/abs/2003.04630
 - Finite Versus Infinite Neural Networks: an Empirical Study
   - paper: https://arxiv.org/abs/2007.15801
+- Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains
+  - paper: https://arxiv.org/abs/2006.10739
 
 
 ## (More) Complete Lists of Reverse Dependencies
