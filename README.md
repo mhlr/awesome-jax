@@ -25,18 +25,28 @@ See JAX repo & docs for a full list
 ## Tools & Libraries
 
 - Neural Tangents
-- Tensor Network
-- Molecular Dynamics
-- Baidu Quantum
+  - code: https://github.com/google/neural-tangents
+  - paper: https://arxiv.org/abs/1912.02803
+- TensorNetwork
+  - code: https://github.com/google/TensorNetwork
+- JAX Molecular Dynamics
+  - code: https://github.com/google/jax-md
+-  Alibaba Cloud Quantum Development Platform (ACQDP)
+  - code: https://github.com/alibaba/acqdp
 
-## Research
+## Research done with JAX
 
-- Rethining attention with Performers: https://arxiv.org/abs/2009.14794
-- Grathwohl
-- Arora
-- Lagrangean Networks
+- Rethinking attention with Performers
+  - paper: https://arxiv.org/abs/2009.14794
+- Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One
+  - paper: https://arxiv.org/abs/1912.03263
+- Lagrangean Neural Networks
+  - paper: https://arxiv.org/abs/2003.04630
+- Finite Versus Infinite Neural Networks: an Empirical Study
+  - paper: https://arxiv.org/abs/2007.15801
 
-## (More) Complete Reverse Dependencies
+
+## (More) Complete Lists of Reverse Dependencies
 
 - wheelodex: https://www.wheelodex.org/projects/jax/rdepends/
 - github: https://github.com/google/jax/network/dependents?package_id=UGFja2FnZS0zMjg2NDI1MjA%3D
