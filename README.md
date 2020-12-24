@@ -51,6 +51,9 @@ See JAX repo & docs for a full list
 - Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent
   - paper: https://arxiv.org/abs/1902.06720
 
+## Popular Articles
+
+- [Massively parallel MCMC with JAX](https://rlouf.github.io/post/jax-random-walk-metropolis/)
 
 ## (More) Complete Lists of Reverse Dependencies
 
