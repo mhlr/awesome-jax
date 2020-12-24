@@ -46,6 +46,10 @@ See JAX repo & docs for a full list
   - paper: https://arxiv.org/abs/2007.15801
 - Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains
   - paper: https://arxiv.org/abs/2006.10739
+- Reformer: The Efficient Transformer
+  - paper: https://arxiv.org/abs/2001.04451
+- Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent
+  - paper: https://arxiv.org/abs/1902.06720
 
 
 ## (More) Complete Lists of Reverse Dependencies
