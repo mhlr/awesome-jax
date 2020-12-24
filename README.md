@@ -59,6 +59,6 @@ See JAX repo & docs for a full list
 
 ## Things that should be done with JAX ;)
 
-- Analog Cicuit Simulator
+- Analog cicuit simulator like SPICE
 - APL/J/K/FP to XLA compiler
 
