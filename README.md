@@ -56,6 +56,13 @@ See JAX repo & docs for a full list
 - [Massively parallel MCMC with JAX](https://rlouf.github.io/post/jax-random-walk-metropolis/)
 - [Meta-Learning in 50 Lines of JAX](https://blog.evjang.com/2019/02/maml-jax.html)
 - [Normalizing Flows in 100 Lines of JAX](https://blog.evjang.com/2019/07/nf-jax.html)
+- [Infinitely Wide Neural-Networks | Neural Tangents Explained](https://towardsdatascience.com/infinitely-wide-neural-networks-neural-tangents-explained-d6c6d896fcbf)
+- [Turbocharging SVD with JAX](https://towardsdatascience.com/turbocharging-svd-with-jax-749ae12f93af)
+- [Creating Adversarial Examples for Neural Networks with JAX](https://towardsdatascience.com/creating-adversarial-examples-with-jax-from-the-scratch-bf267757f672)
+- [JAX: Differentiable Computing by Google](https://towardsdatascience.com/jax-differentiable-computing-by-google-78310859b4ad)
+- [Deep Learning with Jax and Elegy: Going beyond TensorFlow, Pytorch, and Keras](https://towardsdatascience.com/deep-learning-with-jax-and-elegy-c0765e3ec31a)
+- [Option Greeks in Python: JAX for automatic partial-differentiation of Black-Scholes](https://towardsdatascience.com/option-greeks-in-python-97980df3ab0b)
+
 
 ## (More) Complete Lists of Reverse Dependencies
 
