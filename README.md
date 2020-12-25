@@ -35,6 +35,8 @@ See JAX repo & docs for a full list
   - code: https://github.com/alibaba/acqdp
 - Jraph - A library for graph neural networks in jax
   - code: https://github.com/deepmind/jraph
+- SymJAX: symbolic CPU/GPU/TPU programming
+  - code: https://github.com/SymJAX/SymJAX
 
 ## Research done with JAX
 
