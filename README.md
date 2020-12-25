@@ -37,6 +37,8 @@ See JAX repo & docs for a full list
   - code: https://github.com/deepmind/jraph
 - SymJAX: symbolic CPU/GPU/TPU programming
   - code: https://github.com/SymJAX/SymJAX
+- coax: Plug-n-play Reinforcement Learning in Python with OpenAI Gym and JAX
+  - cpde: https://github.com/microsoft/coax
 
 ## Research done with JAX
 
