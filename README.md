@@ -33,6 +33,8 @@ See JAX repo & docs for a full list
   - code: https://github.com/google/jax-md
 - Alibaba Cloud Quantum Development Platform (ACQDP)
   - code: https://github.com/alibaba/acqdp
+- Jraph - A library for graph neural networks in jax
+  - code: https://github.com/deepmind/jraph
 
 ## Research done with JAX
 
