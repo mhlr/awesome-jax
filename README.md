@@ -54,6 +54,7 @@ See JAX repo & docs for a full list
 ## Popular Articles
 
 - [Massively parallel MCMC with JAX](https://rlouf.github.io/post/jax-random-walk-metropolis/)
+- [Meta-Learning in 50 Lines of JAX](https://blog.evjang.com/2019/02/maml-jax.html)
 
 ## (More) Complete Lists of Reverse Dependencies
 
