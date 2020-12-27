@@ -1,4 +1,4 @@
-# List of JAX resources
+# LAwesome JAX
 
 ## The JAX Library
 - repo: https://github.com/google/jax
