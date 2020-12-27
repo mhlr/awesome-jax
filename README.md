@@ -1,4 +1,4 @@
-# LAwesome JAX
+# Awesome JAX
 
 ## The JAX Library
 - repo: https://github.com/google/jax
