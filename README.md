@@ -1,6 +1,6 @@
 # Awesome JAX
 
-for a moew complete & current list see https://github.com/gn2cholas/awesome-jax
+for a more complete & current list see https://github.com/gn2cholas/awesome-jax
 
 ## The JAX Library
 - repo: https://github.com/google/jax
